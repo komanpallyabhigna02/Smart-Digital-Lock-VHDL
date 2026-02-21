@@ -18,8 +18,6 @@ If the password is correct:
 If wrong password is entered 3 times:
 - System enters LOCKED state.
 
-## Simulation Results
-(Insert screenshot below)
 
 ## Conclusion
 The digital lock was successfully implemented and verified using behavioral simulation.
